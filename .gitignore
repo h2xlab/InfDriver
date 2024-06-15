@@ -1,0 +1,12 @@
+/student/__pycache__/
+/student/results/
+/student/teacher_labels/*/
+/student/models/__pycache__/
+/student/utils/__pycache__/
+/teacher/poses/
+/teacher/__pycache__/
+/teacher/fisher/__pycache__/
+/teacher/model/__pycache__/
+/teacher/results/
+/teacher/vo-eval-tool/*.csv
+/teacher/vo-eval-tool/__pycache__/
